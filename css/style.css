@@ -15,8 +15,13 @@ header{
     right: 0;
 }
 
-header .content{
+.nav-height{
     height: 75px;
+    text-align: center;
+}
+
+.img-avatar{
+    width: 150px;
 }
 
 
@@ -24,10 +29,6 @@ header .content{
 
 #jumbotron{
     padding-top: 75px;
-}
-
-.green-section .content{
-    height: 350px;
 }
 
 
